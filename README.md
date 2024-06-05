@@ -2,14 +2,14 @@
 
 ## Overview
 ### Introduction
-Introduce the project and give a description.
+Aims are to develop deeper collaboration to build out AI infrastructure for
 
-Include a link to the website if one is available.
+1. Food safety testing database to power AI applications in produce safety
+2. Federated Learning for collaborative and privacy-preserving learning
+3. Inventory strategies for improved supply change resilience against disastrous events
 
 ### Results
-Explain the results/findings of the project.
 
-It's a good idea to include figures here to visualize the results.
 
 ## Usage
 ### Setup
@@ -37,7 +37,6 @@ Include citation here.
 This project's code is licensed under the GNU General Public License v3.0 and dataset is licensed the Creative Commons Attribution Share Alike 4.0 International license. Please see the [LICENSE.code](/LICENSE.code) and [LICENSE.dataset](/LICENSE.dataset) files for details.
 
 ## Acknowledgements
-
 
 ## Funding
 Include the source of project funding here.
